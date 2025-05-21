@@ -2,4 +2,4 @@
 
 
 ## 📸 Example Outputs
-![image alt](https://github.com/SaeidDaliriSusefi/LakeWSE-Estimation/blob/665d0c788e3e4f44a48901a9c1b2cbbc5a00802b/Images/Lake.PNG)
+![image alt](https://github.com/SaeidDaliriSusefi/LakeWSE-Estimation/blob/b3dd774ae617ce7291e88b16c2a782cf2486e255/Images/Ex_1.png)
