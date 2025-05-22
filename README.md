@@ -1,4 +1,4 @@
-# 🌊 River Width and Water Surface Elevation Detection using Landsat & ICESat-2 ATL03
+# 🌊 Lake Extend and Water Surface Elevation Detection using Landsat & ICESat-2 ATL03
 
 
 ## 📸 Example Outputs
