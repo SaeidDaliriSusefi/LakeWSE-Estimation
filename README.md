@@ -1,4 +1,4 @@
-# Lake Water Surface Monitoring
+# 🌊 River Width and Water Surface Elevation Detection using Landsat & ICESat-2 ATL03
 
 
 ## 📸 Example Outputs
