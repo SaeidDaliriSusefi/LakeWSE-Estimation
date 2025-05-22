@@ -1,4 +1,4 @@
-# 🌊 Lake Extend and Water Surface Elevation Detection using Landsat & ICESat-2 ATL03
+# 🌊 Lake Extend and Water Surface Elevation Estimation using Landsat & ICESat-2 ATL03
 
 This project combines optical satellite imagery and LiDAR photon data to detect river widths and estimate water surface elevation (WSE) across a defined region of interest. The method integrates Landsat 8 (NDWI) with ICESat-2 ATL03 photon heights, offering a semi-automated workflow for water body monitoring.
 
